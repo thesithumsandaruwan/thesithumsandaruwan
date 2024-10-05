@@ -10,8 +10,6 @@
 - 📫 How to reach me **thesithumsandaruwan@gmail.com**
 
 ### Blogs posts
-![image](https://github.com/user-attachments/assets/fdd340ad-0277-4f03-908e-85fdf54acbeb)
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
