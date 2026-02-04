@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesithumsandaruwan&label=Profile%20views&color=0e75b6&style=flat" alt="thesithumsandaruwan" /> </p>
 
-- my new interactive site - https://thesithumsandaruwan.github.io/
+- my new interactive site - https://ss5.engineer
 
 - articles on [https://bit.ly/ss5blogs](https://bit.ly/ss5blogs)
 
